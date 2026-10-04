@@ -1,0 +1,32 @@
+{
+  "general": [
+    {
+      "q": "What is the capital of France?",
+      "answer": "Paris"
+    }
+  ],
+  "coding": [
+    {
+      "q": "What keyword defines a function in Python?",
+      "answer": "def"
+    }
+  ],
+  "healthcare": [
+    {
+      "q": "What organ pumps blood through the body?",
+      "answer": "heart"
+    }
+  ],
+  "banking": [
+    {
+      "q": "What does ATM stand for?",
+      "answer": "automated teller machine"
+    }
+  ],
+  "legal": [
+    {
+      "q": "What is a contract?",
+      "answer": "agreement"
+    }
+  ]
+}
